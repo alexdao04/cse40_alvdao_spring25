@@ -58,3 +58,7 @@ Name: Alexander Dao
 
         - Is Abductive Reasoning ML?
             - Can be ampliative: we can draw conclusions about unobserved phenomena.
+
+
+    - Cogent inductive reasoning requires the evidence against a subject is fairly complete, whereas abductive reasning has a lack of completeness (either in evidence, explanation, or both).
+        - e.g. a doctor can't diagnose someone because a patient is unconscious/fails to report every symptom, or a doctor comes to a diagnosis that doesn't explain ALL of the symptoms present.
