@@ -24,8 +24,10 @@ Name: Alexander Dao
         - Most commonly seen in scientific reasoning (e.g. hypotheses).
 
     - X was true once (X1), X was true again (X2), X was true again... (X3)
-    - Generalized rule: X is always true (for all n, Xn)
+        - Generalized rule: X is always true (for all n, Xn)
+
     - X will be true in the future (for some future time t, Xt)
+    
     - How many observations? What features matter? What generalizations are valid?
 
     - Inductive Reasoning is only "probable".
@@ -39,4 +41,10 @@ Name: Alexander Dao
             enough that our conclusion is likely true.
 
 - Abductive Reasoning
-    - 
+    - "Taking your best shot": Begins with an incomplete set of observations (effects) and proceeds to the likeliest possible explanation for the set,
+    given prior knowledge in the form of "causal" rules.
+        - In short, you use the information at hand that you knew previously
+        to form an explanation. Most commonly found in daily decision-making.
+
+    - Example: "My lamp doesn't turn on when I turn the switch."
+                "The light bulb is probably burned out."
