@@ -27,7 +27,7 @@ Name: Alexander Dao
         - Generalized rule: X is always true (for all n, Xn)
 
     - X will be true in the future (for some future time t, Xt)
-    
+
     - How many observations? What features matter? What generalizations are valid?
 
     - Inductive Reasoning is only "probable".
@@ -48,3 +48,13 @@ Name: Alexander Dao
 
     - Example: "My lamp doesn't turn on when I turn the switch."
                 "The light bulb is probably burned out."
+
+    - Uses prior knowledge about causality to formulate possible causes of observed information.
+        - Inherently uncertain for several reasons:
+            - Any given effect can have multiple causes
+            - Observations incomplete, may be irrelevant
+            - External factors may have impact
+            - Correlation and causation are easy to confuse.
+
+        - Is Abductive Reasoning ML?
+            - Can be ampliative: we can draw conclusions about unobserved phenomena.
