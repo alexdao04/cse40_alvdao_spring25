@@ -16,3 +16,21 @@ Different kinds of supervised ML:
 Classification: Output one of a set of discrete labels
 Regression: output a real number
 Clustering: outputs groups of similar data points
+
+Inputs #1:
+Feature Vectors
+A vector (represented as array) of features describing each example.
+
+Notation:
+1) x is an item/feature vector -> vector; x_i is the ith feature.
+2) x_i is an item/feature vector -> x_ij is the jth feature of the ith input vector.
+
+Input Data #2: Labels
+A label is the correct classification (desired output) associated with a particular input feature vector
+
+ML Output: Hypothesis
+A tentative explanation for a observation, phenomenon, or scientific problem we can test and investigate.
+
+Mathematical function we learn from data is our hypothesis (simplifying things a bit)
+
+Optimization formula (supervised ML)
