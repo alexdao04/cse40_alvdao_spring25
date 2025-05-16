@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/alexdao/Documents/cse40_alvdao/HO4/cse40_venv
+set -gx VIRTUAL_ENV '/media/alexdao04/data/Main Folder/school_stuff/cse40/cse40_alvdao_spring25/HO4/cse40_venv'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

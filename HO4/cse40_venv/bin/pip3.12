@@ -1,4 +1,6 @@
-#!/home/alexdao/Documents/cse40_alvdao/HO4/cse40_venv/bin/python3.12
+#!/bin/sh
+'''exec' "/media/alexdao04/data/Main Folder/school_stuff/cse40/cse40_alvdao_spring25/HO4/cse40_venv/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
